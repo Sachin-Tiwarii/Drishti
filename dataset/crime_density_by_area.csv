@@ -1,0 +1,16 @@
+AREA,AREA NAME,LAT,LON,crime_count,ZONE
+1,Rajwada,22.7196,75.8577,9592,Central
+2,Vijay Nagar,22.7533,75.8937,10745,East
+3,Palasia,22.7244,75.885,13230,Central
+4,Bhawarkua,22.6919,75.866,8614,South
+5,Rau,22.6395,75.8086,8722,West
+6,Annapurna,22.6961,75.8322,13489,West
+7,Khajrana,22.728,75.909,13602,East
+8,Bengali Square,22.714,75.9067,11199,South-East
+9,LIG Square,22.735,75.893,14416,East
+10,Geeta Bhawan,22.727,75.88,10952,Central
+11,Chandan Nagar,22.701,75.824,7919,West
+12,Airport Road,22.7212,75.8011,12156,North-West
+13,MR-10,22.788,75.897,11762,North-East
+14,Super Corridor,22.753,75.818,9015,North-West
+15,Scheme 78,22.75,75.893,4917,East
